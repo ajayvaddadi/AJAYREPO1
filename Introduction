@@ -1,3 +1,8 @@
 SETTING UP GIT :
 
 Nice Tutorial : http://www.youtube.com/watch?v=vaNGbk6HN9Y&feature=relmfu
+
+Has a very good video tutorial about what i git and how to set up and all the commands
+
+
+GIT COLOURED COMMAND ENABLE : git config color.ui true
